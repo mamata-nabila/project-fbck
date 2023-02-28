@@ -1,0 +1,115 @@
+h1{
+	font-family: Helvetica;
+	color: #315BF3;
+	text-align: center;
+	font-size: 3rem;
+}
+
+
+.Name{
+	width: 400px ;
+	height: 3px;
+	padding: 20px ;
+	outline: none;
+	border-radius: 5px;
+	border-color: grey;
+	display: flex;
+	justify-content: center;
+	margin: 0 auto;
+
+
+	
+
+}
+
+.secret{
+	width: 400px ;
+	height: 3px;
+	padding: 20px ;
+	outline: none;
+	border-radius: 5px;
+	display: flex;
+	justify-content: center;
+	margin: 0 auto;
+	border-color: grey;
+
+}
+
+.btn{
+	text-align: center;
+	width: 450px ;
+	height: 3px;
+	padding: 20px;
+	outline: none;
+	background-color:#315BF3 ;
+	color: white;
+	font-size: 18px;
+	display: inline-block;
+	border-radius: 5px;
+	display: flex;
+	justify-content: center;
+	margin: 0 auto;
+}
+
+
+.btn:hover{
+	background-color: lightblue;
+}
+
+body{
+	color: blue;
+	text-align: center;
+}
+
+
+hr{
+	width: 60%;
+
+}
+
+
+.account{
+	text-align: center;
+	width: 250px ;
+	height: 3px;
+	padding: 25px;
+	outline: none;
+	background-color:green;
+	color: white;
+	font-size: 18px;
+	display: inline-block;
+	border-radius: 5px;
+	border-color: green;
+	display: flex;
+	justify-content: center;
+	margin: 0 auto;
+}
+
+
+.boxmodel{
+	border: 5px solid whitesmoke;
+	background-color: white;
+	display: inline-block;
+	padding: 20px 20px;
+	width: 150px ;
+	height: 50px;
+	color: black;
+}
+
+.h2{
+	color: black;
+}
+
+
+.mama{
+	background-color: white;
+	border-radius: 10px;
+	border: 5px solid white;
+	border-height: 300px;
+	box-shadow: 3px 3px 3px 3px #888888;
+	border-width: 10px;
+	padding: 25px;
+	display: inline-block;
+}
+
+
